@@ -3,8 +3,9 @@ h1 {
   }
   
   .marker {
-    width:200px;
-    height:25px;
+    margin:auto;
+    width: 200px;
+    height: 25px;
     background-color: red;
   }
   
